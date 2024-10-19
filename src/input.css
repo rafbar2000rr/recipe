@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    .instructions-li{
+        @apply pl-2 font-Outfit font-[700] text-Brown-800
+    }
+}
